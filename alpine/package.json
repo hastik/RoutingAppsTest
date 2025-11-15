@@ -1,0 +1,16 @@
+{
+  "name": "multi-stack-todo-alpine",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "alpinejs": "^3.14.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
