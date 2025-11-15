@@ -1,0 +1,21 @@
+{
+  "projects": [
+    {
+      "id": "proj_1",
+      "name": "Sample Project",
+      "description": "Example description"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task_1",
+      "projectId": "proj_1",
+      "title": "Example Task",
+      "description": "Something to do",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "deadline": "2025-01-15",
+      "priority": "high",
+      "status": "new"
+    }
+  ]
+}
